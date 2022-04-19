@@ -13,7 +13,7 @@
 
 <h2 id="sobre">:notebook: Sobre </h2>
 
-<p align="center">:rocket: Projeto desenvolvido conforme proposta do bootcamp ministrado pela Labenu, para o desenvolvimento de um web site de relacionamentos </p>
+<p align="center">:rocket: Projeto desenvolvido conforme proposta do bootcamp ministrado pela Labenu, em julho de 2021, para o desenvolvimento de um web site de relacionamentos </p>
 
 <h2 id="tecnologias"> 🛠 Tecnologias </h2>
 
