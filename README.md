@@ -1,4 +1,4 @@
-<h1 align="center" id="top">:rocket: == Projeto semana 9 - AstroMatch == :rocket:</h1>
+<h1 align="center" id="top">:rocket: == Projeto AstroMatch == :rocket:</h1>
 
 
 <p align="center">
